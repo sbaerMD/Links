@@ -2,6 +2,8 @@
 
 In this section I collect link to tools and libraries continuously for all topics of my working area. Feel free to share topics and links, but remember I'm a .NET-Developer ;-)
 
+- [How to write a README.md](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+
 # Libraries & Co.
 
 ## Resilience
