@@ -6,6 +6,10 @@ In this section I collect link to tools and libraries continuously for all topic
 
 # Libraries & Co.
 
+## Documentation
+
+- [Include diagrams in your Markdown files with Mermaid](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+
 ## Resilience
 - [The Poly Project](http://www.thepollyproject.org/) @ [GitHub](https://github.com/App-vNext/Polly)
 
